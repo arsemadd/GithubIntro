@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-instructions": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-harness/skills/agent-instructions/SKILL.md",
+      "computedHash": "42798ba9f6a50ea46bccf3ac6b7e52fb28e5647a99c0dbf6330a5424426c123b"
+    },
+    "app-lifecycle": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/app-lifecycle/SKILL.md",
+      "computedHash": "914f683db422d0a6c90579da9a92fd94471b41d33c6153df7820fc1e11f654c2"
+    },
+    "beachhead-segment": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/beachhead-segment/SKILL.md",
+      "computedHash": "801fd1bea9b22461097e32c989b7aa95ba761c7dbce01367e376e9b543a6b371"
+    },
+    "chatgpt-plugin": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/chatgpt-plugin/SKILL.md",
+      "computedHash": "2b7eb9127a458339539f76d9b884d21b6367b3b9971eb71facbfa799f873b756"
+    },
+    "claude-agents": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-teams/skills/claude-agents/SKILL.md",
+      "computedHash": "21727cc7d8eeac0a5fdcc4bea4dbc5a9d61432e8d98d9f4383242899fae3932e"
+    },
+    "clerk-production": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/clerk-production/SKILL.md",
+      "computedHash": "8068fddc4539e3db1569624fadbdd1fc5ce849c3a4abb65d4dcf0d56d884ce34"
+    },
+    "code-review": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/code-review/SKILL.md",
+      "computedHash": "e9819ca0034e05b8b679a085a25e55dc96966aa4815e63b68989d4723764baa0"
+    },
+    "codex-agents": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-teams/skills/codex-agents/SKILL.md",
+      "computedHash": "553c7e3a3d7936e77e87440383667f5a76522147901495ca814d274e84eecbf8"
+    },
+    "competitor-analysis": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/competitor-analysis/SKILL.md",
+      "computedHash": "e3b9270596bdc6a54dd2e40dfc2865ec3ad9754c841fb1de944e343e3e44120d"
+    },
+    "delegation": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-teams/skills/delegation/SKILL.md",
+      "computedHash": "3b3601b8a53f5470af455568c5547190aa28d85e956b46ee08cfcf3fe3d8b241"
+    },
+    "derive-tests": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/derive-tests/SKILL.md",
+      "computedHash": "f743cf608ff017637317144b999aad541b2da1dea2a7c22e98e564b0093c65fa"
+    },
+    "document-app": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/document-app/SKILL.md",
+      "computedHash": "7b3b68f300cee7ecfa3e622793c8e9cdf47270f002431cb2e102e49356df9c28"
+    },
+    "embedded-agents-agent-sdk": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/embedded-agents-agent-sdk/SKILL.md",
+      "computedHash": "d27b0aaee1d511dfd27ba060aa8ab7af5319c716cbccc308b9f447261dfae7a8"
+    },
+    "embedded-agents-messages-api": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/embedded-agents-messages-api/SKILL.md",
+      "computedHash": "3530afbe86f5eeefe61cba7419655fb2ef88889881eaf03ce2447a593369e1d8"
+    },
+    "environments": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/environments/SKILL.md",
+      "computedHash": "eb670a32210102e46f38cbc221809da1c0246c1f3b3498e92bdcc873d4dcd735"
+    },
+    "flight-deck": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-harness/skills/flight-deck/SKILL.md",
+      "computedHash": "b33165b30a7a4fe8514bc6ad2c647069d3f47d807e474bddf6245ba71f2733f5"
+    },
+    "grok-agents": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-teams/skills/grok-agents/SKILL.md",
+      "computedHash": "283c5ddecea9881b60781e70c080e7aac810fd8bf668e3b808f0a748dcbfc004"
+    },
+    "growth-loops": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/growth-loops/SKILL.md",
+      "computedHash": "ea2d84434989784332048f624a96ba9952ea93cf15f3d24257fcf177a9004c67"
+    },
+    "guardrail-hooks": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-harness/skills/guardrail-hooks/SKILL.md",
+      "computedHash": "8bb4c60b16dadda9bb798de66cb06c3ab707f2dd1f82c6fd6a0a28d0e6a43d58"
+    },
+    "handover": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-harness/skills/handover/SKILL.md",
+      "computedHash": "630ae993635378bb20ddbe07a5d0d899c68dfcbd993742dc3eee69ed3914ded8"
+    },
+    "independent-review": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/independent-review/SKILL.md",
+      "computedHash": "be871897778a510c7435779c6e4b13ac99491d6527915a94343f576ed2791721"
+    },
+    "intended-vs-implemented": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/intended-vs-implemented/SKILL.md",
+      "computedHash": "db980c642a0b1cf72f54c681289828933df30170f9bf60dd2fa465d2eea9c73d"
+    },
+    "legal-pages": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/legal-pages/SKILL.md",
+      "computedHash": "ab4be91f6e4d3a9491f209fc9f07ecb913434efdee9a6bfe9993ac9d76b4b0d4"
+    },
+    "market-segments": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/market-segments/SKILL.md",
+      "computedHash": "929346e56ef9abe4255853c06fa4d6cc4272010a4612787bcbe3a28cec0c09ed"
+    },
+    "mcp-server": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/mcp-server/SKILL.md",
+      "computedHash": "fe297e5936aff8063bd7e595e96cf18fc59eabdf184d04692e2bed2880645b55"
+    },
+    "performance-audit-static": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/performance-audit-static/SKILL.md",
+      "computedHash": "3ffa17d2e6b53027a8c863d206e0e5f66eac3595cc33917a0343df5940db851e"
+    },
+    "product-analytics": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/product-analytics/SKILL.md",
+      "computedHash": "fa365bda2eafe13b1b8b15a1c6dbd1dc79ed0228c90a0d99e7528a1d2fe3ff63"
+    },
+    "propose": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/propose/SKILL.md",
+      "computedHash": "a645f99a702ccf2e4a14f6568d91eed84a950b9d7a93fc4b0dfe4806429e6159"
+    },
+    "release-gate": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/release-gate/SKILL.md",
+      "computedHash": "f0831b8329e27c74beab6a7d75097679149aad8884ef3458c52597d062bed89e"
+    },
+    "retro": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-harness/skills/retro/SKILL.md",
+      "computedHash": "0d3e7280cc09255c683cabf9142a6e19dfe4e3a7870a12d53bab5f4859319150"
+    },
+    "saas-authorization": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/saas-authorization/SKILL.md",
+      "computedHash": "1d8c67a33d3cd7b211706205b88c4d64cda8769df65c3a34a2f2811c19911c2d"
+    },
+    "security-audit-static": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/security-audit-static/SKILL.md",
+      "computedHash": "874d45a4255583ff886a2e3d1049e379247ec4e056a60e9241c8ae03cb00cdb9"
+    },
+    "ship-check": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/ship-check/SKILL.md",
+      "computedHash": "365dd587910821649741db0d371f3aec79952477387d4b8dd886b48596931ea9"
+    },
+    "shipping-artifacts": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/shipping-artifacts/SKILL.md",
+      "computedHash": "321a4746041c700a3b9f6ee87e749e88c2328e8fc90e88e42aa08083caacf714"
+    },
+    "start-here": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/start-here/SKILL.md",
+      "computedHash": "6c7338258d14dd617a8978fa4b287f6d30f35ef5d9031255f8e196993273b836"
+    },
+    "supabase-production": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/supabase-production/SKILL.md",
+      "computedHash": "77b332ef45d8134a9503cf04f1dfc266bb28094849bc0e4e2c769d5bb3a8b55d"
+    },
+    "test-harness": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "ai-shipping/skills/test-harness/SKILL.md",
+      "computedHash": "20d257641e7f58563a975997dcb51013cd0f9b67d14d73717b6b3381a2035aac"
+    },
+    "transactional-email": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/transactional-email/SKILL.md",
+      "computedHash": "c7b8b955beafcf45c4bfc1a31d5fdf6bcdb7580536cc06981eeac438532a43e9"
+    },
+    "ui-design": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/ui-design/SKILL.md",
+      "computedHash": "d272ab75cd278f773ba4483085ed0459c0cfa87eb3423c3225d2417df00a5d99"
+    },
+    "uptime-monitoring": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "app-stack/skills/uptime-monitoring/SKILL.md",
+      "computedHash": "c9afa6cb56517333d99f5fc1691a84a217227d99dd043d0497f03a4bb4c379ac"
+    },
+    "value-curve": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/value-curve/SKILL.md",
+      "computedHash": "37c6398f0757cfc2e801c947a6e2cbe3bbaf99b5898b2027b452678e96cf14d6"
+    },
+    "value-proposition": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "product/skills/value-proposition/SKILL.md",
+      "computedHash": "809ce3312a2a62bfc1f25b07fcf40433b0f0d0edf8955c10929931413f76ffec"
+    },
+    "windows-agent-shell": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "agent-harness/skills/windows-agent-shell/SKILL.md",
+      "computedHash": "c52ce57c59d52071850be3ad7e2b67603b22ce35073f11963946728a14ef453a"
+    },
+    "work-humanizer": {
+      "source": "phuryn/product-engineering",
+      "sourceType": "github",
+      "skillPath": "work-humanizer/skills/work-humanizer/SKILL.md",
+      "computedHash": "c3b56c43d2b399d5e3277b31a4421bcc1aa5b4e1fee2f8aadb39093f5ff5ec92"
+    }
+  }
+}
